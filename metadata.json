@@ -1,0 +1,6 @@
+{
+  "name": "Gestión RRHH - Calendario y Licencias",
+  "description": "Sistema integral de gestión de recursos humanos con registro de empleados, documentos, calendario interactivo de licencias, días de estudio, feriados y exportación/importación a Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
